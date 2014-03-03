@@ -1,0 +1,13 @@
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe.config
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.pdb
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Form1.resources
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Properties.Resources.resources
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.GenerateResource.Cache
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.exe
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.pdb
+c:\users\zuckerberg\documents\visual studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csprojResolveAssemblyReference.cache
+C:\Users\ZuckerBerg\Documents\Visual Studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.StartPage.resources
+C:\Users\ZuckerBerg\Documents\Visual Studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Register.resources
+C:\Users\ZuckerBerg\Documents\Visual Studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Final.resources
+C:\Users\ZuckerBerg\Documents\Visual Studio 2012\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Information.resources
